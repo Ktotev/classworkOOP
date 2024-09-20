@@ -1,1 +1,1 @@
-print("reshenie")
+print("reshenieto")
